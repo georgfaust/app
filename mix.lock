@@ -1,0 +1,3 @@
+%{
+  "dep": {:git, "git@github.com:georgfaust/dep.git", "374e5db79380b7126be198345203a46bfa6c9ca5", []},
+}
