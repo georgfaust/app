@@ -1,3 +1,3 @@
 %{
-  "dep": {:git, "git@github.com:georgfaust/dep.git", "374e5db79380b7126be198345203a46bfa6c9ca5", []},
+  "dep": {:git, "git@github.com:georgfaust/dep.git", "53c217be7f1032f5816cf22ad5a9dc7702aae6f1", []},
 }
